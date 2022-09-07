@@ -20,11 +20,11 @@
 
 
 
-## 📔 Descrição do Projeto
+## Descrição do Projeto
 
 Projeto desenvolvido em Java 8 para explorar três dependências que nos possibilita realizar operações com documentos, numéros nacionais.
 
-## 🔨 Funcionalidades
+## Funcionalidades
 
 ✔️ `CEP:` Implementação exemplo de consulta de CEP utilizando o ViaCEP
 
@@ -40,14 +40,14 @@ Projeto desenvolvido em Java 8 para explorar três dependências que nos possibi
 
 
 
-## 🔆 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * `Java 8`
 * `Caelum Stella`
 * `Java Money - Moneta`
 * `ViaCep`
 
-## 📂 Acesso ao Projeto
+## Acesso ao Projeto
 
 Você pode acessar o código fonte do projeto ou baixár-lo.
 
@@ -62,6 +62,13 @@ Após baixar o projeto, você pode abir com a sua IDE de preferência. No caso e
 * Por fim `Create`.
 
 O `IntelliJ` se configurado corretamente irá baixar as dependências do projeto, aguarde a até finalizar. Ao finalizar, você pode executar as classes e ver o resultado 🏆
+
+
+## Desenvolvedores
+
+
+| [<img src="https://avatars.githubusercontent.com/u/85969725?v=4" width=115><br><sub>Luiz Leme</sub>](https://github.com/souluizleme)|
+| :---: |
 
 
 
