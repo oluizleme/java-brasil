@@ -22,8 +22,7 @@
 
 ## Descrição do Projeto
 
-Projeto desenvolvido em Java 8 para explorar três dependências que nos possibilita realizar operações com documentos, numéros nacionais.
-
+Projeto desenvolvido em Java 8, que nos possibilita explorar manipulações com documentos nacionais, datas, dinheiro, números por extenso e cep.
 ## Funcionalidades
 
 ✔️ `CEP:` Implementação exemplo de consulta de CEP utilizando o ViaCEP
